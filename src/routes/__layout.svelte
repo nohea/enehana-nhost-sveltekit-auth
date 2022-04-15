@@ -1,13 +1,11 @@
 <script>
-import LoginStatusBox from "$lib/components/LoginStatusBox.svelte";
-
-
+	import LoginStatusBox from '$lib/components/LoginStatusBox.svelte';
 </script>
 
 <LoginStatusBox />
 
 <div>
-    <h1>NHost Hasura Auth + SvelteKit</h1>
+	<h1>NHost Hasura Auth + SvelteKit</h1>
 	<main>
 		<slot />
 	</main>
