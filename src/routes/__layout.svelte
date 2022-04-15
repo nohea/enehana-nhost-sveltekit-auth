@@ -5,7 +5,7 @@
 <LoginStatusBox />
 
 <div>
-	<h1>NHost Hasura Auth + SvelteKit</h1>
+	<h1>Nhost Hasura Auth + SvelteKit</h1>
 	<main>
 		<slot />
 	</main>
